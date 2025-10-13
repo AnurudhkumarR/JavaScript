@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "Live Preview",
+      "workspacePath": "/home/osl/Assignment/CodingQuestion",
+      "problemMatcher": ["$node-sass"],
+      "label": "Live Preview: Run Server"
+    }
+  ]
+}
